@@ -1,0 +1,2 @@
+Problem statement:
+Make a rectangle, when we move the mouse on that rectangle on the left side, gradually the color  of rectangle changes to red and when we move mouse towards the right we want to change the color to blue.
